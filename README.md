@@ -1,16 +1,4 @@
-# pets_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is my submission for Code2Career: Flutter Project – Milestone 1
+This is a Pet Care Application that focuses completly on cats and dogs where it tracks their vaccines and tools 
+You start by adding your pets and then check list of vaccines and tools that are available for your pet, and then check those you already have.
+The application also shows the different types of cats that exists around the world
